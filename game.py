@@ -244,7 +244,7 @@ class Game(object):
             if not self.paused:
                 msg1 = ''
                 msg2 = ''
-                #update stats counters. Not doing anything yet
+                #update stats counters. Not doing anything yet.
                 self.mboard_text = [msg1, msg2]
 
         #update entities with time passed for internal calculations
